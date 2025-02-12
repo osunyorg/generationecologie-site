@@ -2,6 +2,11 @@
 
 baseURL: https://site.generationecologie.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: 0ce6b290-0cf5-4b51-93e7-48d0ec678d2e
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
